@@ -9,6 +9,7 @@ twitter = Twython(config['APP_KEY'],
                   config['OAUTH_TOKEN'],
                   config['OAUTH_TOKEN_SECRET'])
 
+print()
 try:
   with open('liners.txt', 'r+') as tweetfile:
     buff = tweetfile.readlines()
@@ -19,7 +20,8 @@ try:
     if len(line) <= 140 and len(line) > 0:
       print('Sending tweet.')
 
-      twitter.update_status(status = line)
+      unique_time_str = time.strftime('%Y-%m-%d %H:%M:%S')
+      twitter.update_status(status = unique_time_str + ' - ' + line)
 
       with open('liners.txt', 'w') as tweetfile:
         tweetfile.writelines(buff)
