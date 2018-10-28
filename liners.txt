@@ -1,433 +1,607 @@
-Data    #chainPORT #chainPORTHACK
-Lake,   #chainPORT #chainPORTHACK
-BlockChain,   #chainPORT #chainPORTHACK
-AIS,    #chainPORT #chainPORTHACK
-OCR,    #chainPORT #chainPORTHACK
-Machine   #chainPORT #chainPORTHACK
-Learning    #chainPORT #chainPORTHACK
-&   #chainPORT #chainPORTHACK
-Deep    #chainPORT #chainPORTHACK
-Learning,   #chainPORT #chainPORTHACK
-...   #chainPORT #chainPORTHACK
-CONTEXT   #chainPORT #chainPORTHACK
-    #chainPORT #chainPORTHACK
-One   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-most    #chainPORT #chainPORTHACK
-important   #chainPORT #chainPORTHACK
-issues    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-port    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-Antwerp   #chainPORT #chainPORTHACK
-is    #chainPORT #chainPORTHACK
-facing    #chainPORT #chainPORTHACK
-nowadays,   #chainPORT #chainPORTHACK
-is    #chainPORT #chainPORTHACK
-cocaine   #chainPORT #chainPORTHACK
-smuggle   #chainPORT #chainPORTHACK
-:   #chainPORT #chainPORTHACK
-In    #chainPORT #chainPORTHACK
-2016,   #chainPORT #chainPORTHACK
-Belgian   #chainPORT #chainPORTHACK
-Customs   #chainPORT #chainPORTHACK
-were    #chainPORT #chainPORTHACK
-able    #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-seize   #chainPORT #chainPORTHACK
-30    #chainPORT #chainPORTHACK
-tons,   #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-2017,   #chainPORT #chainPORTHACK
-42    #chainPORT #chainPORTHACK
-tons    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-2018,   #chainPORT #chainPORTHACK
-already   #chainPORT #chainPORTHACK
-more    #chainPORT #chainPORTHACK
-than    #chainPORT #chainPORTHACK
-20.5    #chainPORT #chainPORTHACK
-tons.   #chainPORT #chainPORTHACK
-It    #chainPORT #chainPORTHACK
-is    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-main    #chainPORT #chainPORTHACK
-ambition    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-Belgian   #chainPORT #chainPORTHACK
-Customs   #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-stop    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-cocaine   #chainPORT #chainPORTHACK
-smuggle   #chainPORT #chainPORTHACK
-via   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-port    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-Antwerp,    #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-short   #chainPORT #chainPORTHACK
-term    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-with    #chainPORT #chainPORTHACK
-a   #chainPORT #chainPORTHACK
-maximum   #chainPORT #chainPORTHACK
-(100%?)   #chainPORT #chainPORTHACK
-use   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-sophisticated   #chainPORT #chainPORTHACK
-technologies.   #chainPORT #chainPORTHACK
-Knowing   #chainPORT #chainPORTHACK
-that,   #chainPORT #chainPORTHACK
-with    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-current   #chainPORT #chainPORTHACK
-approach,   #chainPORT #chainPORTHACK
-Belgian   #chainPORT #chainPORTHACK
-Customs   #chainPORT #chainPORTHACK
-only    #chainPORT #chainPORTHACK
-able    #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-scan    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-analyze   #chainPORT #chainPORTHACK
-just    #chainPORT #chainPORTHACK
-a   #chainPORT #chainPORTHACK
-fraction    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-total   #chainPORT #chainPORTHACK
-amount    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-incoming    #chainPORT #chainPORTHACK
-containers,   #chainPORT #chainPORTHACK
-there   #chainPORT #chainPORTHACK
-is    #chainPORT #chainPORTHACK
-still   #chainPORT #chainPORTHACK
-a   #chainPORT #chainPORTHACK
-long    #chainPORT #chainPORTHACK
-way   #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-go    #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-order   #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-reach   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-intended    #chainPORT #chainPORTHACK
-objective.    #chainPORT #chainPORTHACK
-Within    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-realization   #chainPORT #chainPORTHACK
-process,    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-mission   #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-strategic   #chainPORT #chainPORTHACK
-objectives    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-Customs   #chainPORT #chainPORTHACK
-Union   #chainPORT #chainPORTHACK
-must    #chainPORT #chainPORTHACK
-also    #chainPORT #chainPORTHACK
-be    #chainPORT #chainPORTHACK
-taken   #chainPORT #chainPORTHACK
-into    #chainPORT #chainPORTHACK
-account,    #chainPORT #chainPORTHACK
-as    #chainPORT #chainPORTHACK
-there   #chainPORT #chainPORTHACK
-are   #chainPORT #chainPORTHACK
-:   #chainPORT #chainPORTHACK
-on    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-one   #chainPORT #chainPORTHACK
-hand,   #chainPORT #chainPORTHACK
-protect   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-European    #chainPORT #chainPORTHACK
-Union,    #chainPORT #chainPORTHACK
-with    #chainPORT #chainPORTHACK
-more    #chainPORT #chainPORTHACK
-physical    #chainPORT #chainPORTHACK
-controls    #chainPORT #chainPORTHACK
-that    #chainPORT #chainPORTHACK
-are   #chainPORT #chainPORTHACK
-disruptive    #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-trade   #chainPORT #chainPORTHACK
-and,    #chainPORT #chainPORTHACK
-on    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-other   #chainPORT #chainPORTHACK
-hand,   #chainPORT #chainPORTHACK
-facilitate    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-legal   #chainPORT #chainPORTHACK
-trade   #chainPORT #chainPORTHACK
-as    #chainPORT #chainPORTHACK
-much    #chainPORT #chainPORTHACK
-as    #chainPORT #chainPORTHACK
-possible    #chainPORT #chainPORTHACK
-by    #chainPORT #chainPORTHACK
-pursuing    #chainPORT #chainPORTHACK
-a   #chainPORT #chainPORTHACK
-minimum   #chainPORT #chainPORTHACK
-delay   #chainPORT #chainPORTHACK
-at    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-control   #chainPORT #chainPORTHACK
-points.   #chainPORT #chainPORTHACK
-CHALLENGE   #chainPORT #chainPORTHACK
-Taking    #chainPORT #chainPORTHACK
-into    #chainPORT #chainPORTHACK
-account   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-ever-increasing   #chainPORT #chainPORTHACK
-trading   #chainPORT #chainPORTHACK
-volumes   #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-related   #chainPORT #chainPORTHACK
-data    #chainPORT #chainPORTHACK
-which   #chainPORT #chainPORTHACK
-Belgian   #chainPORT #chainPORTHACK
-customs   #chainPORT #chainPORTHACK
-services    #chainPORT #chainPORTHACK
-are   #chainPORT #chainPORTHACK
-expected    #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-supervise   #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-control,    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-reduction   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-customs   #chainPORT #chainPORTHACK
-workforce,    #chainPORT #chainPORTHACK
-it    #chainPORT #chainPORTHACK
-is    #chainPORT #chainPORTHACK
-a   #chainPORT #chainPORTHACK
-challenge   #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-reach   #chainPORT #chainPORTHACK
-maximum   #chainPORT #chainPORTHACK
-security    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-facilitation    #chainPORT #chainPORTHACK
-through   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-implementation    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-use   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-most    #chainPORT #chainPORTHACK
-sophisticated   #chainPORT #chainPORTHACK
-technologies    #chainPORT #chainPORTHACK
-at    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-right   #chainPORT #chainPORTHACK
-time    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-right   #chainPORT #chainPORTHACK
-place   #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-logistics   #chainPORT #chainPORTHACK
-chain.    #chainPORT #chainPORTHACK
-In    #chainPORT #chainPORTHACK
-order   #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-achieve   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-intended    #chainPORT #chainPORTHACK
-purpose,    #chainPORT #chainPORTHACK
-technological   #chainPORT #chainPORTHACK
-improvements    #chainPORT #chainPORTHACK
-both    #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-terms   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-hardware    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-software,   #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-integration   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-both,   #chainPORT #chainPORTHACK
-are   #chainPORT #chainPORTHACK
-necessary.    #chainPORT #chainPORTHACK
-The   #chainPORT #chainPORTHACK
-intended    #chainPORT #chainPORTHACK
-technology    #chainPORT #chainPORTHACK
-should    #chainPORT #chainPORTHACK
-be    #chainPORT #chainPORTHACK
-able    #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-automatically   #chainPORT #chainPORTHACK
-identify    #chainPORT #chainPORTHACK
-goods   #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-means   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-transport   #chainPORT #chainPORTHACK
-showing   #chainPORT #chainPORTHACK
-anomalies,    #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-this    #chainPORT #chainPORTHACK
-case    #chainPORT #chainPORTHACK
-cocaine,    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-remove    #chainPORT #chainPORTHACK
-them    #chainPORT #chainPORTHACK
-from    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-logistics   #chainPORT #chainPORTHACK
-chain   #chainPORT #chainPORTHACK
-for   #chainPORT #chainPORTHACK
-further   #chainPORT #chainPORTHACK
-inspection.   #chainPORT #chainPORTHACK
-At    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-same    #chainPORT #chainPORTHACK
-time,   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-intended    #chainPORT #chainPORTHACK
-technology    #chainPORT #chainPORTHACK
-must    #chainPORT #chainPORTHACK
-be    #chainPORT #chainPORTHACK
-able    #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-determine   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-precise   #chainPORT #chainPORTHACK
-location    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-cocaine   #chainPORT #chainPORTHACK
-in    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-goods   #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-means   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-transport.    #chainPORT #chainPORTHACK
-Therefore   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-intended    #chainPORT #chainPORTHACK
-technology    #chainPORT #chainPORTHACK
-needs   #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-combine   #chainPORT #chainPORTHACK
-high    #chainPORT #chainPORTHACK
-system    #chainPORT #chainPORTHACK
-performance,    #chainPORT #chainPORTHACK
-low   #chainPORT #chainPORTHACK
-throughput    #chainPORT #chainPORTHACK
-times   #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-must    #chainPORT #chainPORTHACK
-be    #chainPORT #chainPORTHACK
-a   #chainPORT #chainPORTHACK
-100%    #chainPORT #chainPORTHACK
-reliable    #chainPORT #chainPORTHACK
-by    #chainPORT #chainPORTHACK
-excluding   #chainPORT #chainPORTHACK
-false   #chainPORT #chainPORTHACK
-positive    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-false   #chainPORT #chainPORTHACK
-negative    #chainPORT #chainPORTHACK
-control   #chainPORT #chainPORTHACK
-results,    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-by    #chainPORT #chainPORTHACK
-minimal   #chainPORT #chainPORTHACK
-human   #chainPORT #chainPORTHACK
-intervention.   #chainPORT #chainPORTHACK
-What    #chainPORT #chainPORTHACK
-is    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-detailed    #chainPORT #chainPORTHACK
-solution    #chainPORT #chainPORTHACK
-you   #chainPORT #chainPORTHACK
-propose   #chainPORT #chainPORTHACK
-?   #chainPORT #chainPORTHACK
-In    #chainPORT #chainPORTHACK
-case    #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-a   #chainPORT #chainPORTHACK
-partial   #chainPORT #chainPORTHACK
-solution    #chainPORT #chainPORTHACK
-:   #chainPORT #chainPORTHACK
-How   #chainPORT #chainPORTHACK
-do    #chainPORT #chainPORTHACK
-you   #chainPORT #chainPORTHACK
-see   #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-connection    #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-other   #chainPORT #chainPORTHACK
-parts   #chainPORT #chainPORTHACK
-of    #chainPORT #chainPORTHACK
-the   #chainPORT #chainPORTHACK
-technology/other    #chainPORT #chainPORTHACK
-technologies    #chainPORT #chainPORTHACK
-?   #chainPORT #chainPORTHACK
-DATA    #chainPORT #chainPORTHACK
-   Technology   #chainPORT #chainPORTHACK
-   Companies    #chainPORT #chainPORTHACK
-   Port   #chainPORT #chainPORTHACK
-   Authority    #chainPORT #chainPORTHACK
-   Customs    #chainPORT #chainPORTHACK
-   Authority    #chainPORT #chainPORTHACK
-INTERESTED    #chainPORT #chainPORTHACK
-PARTIES   #chainPORT #chainPORTHACK
-/   #chainPORT #chainPORTHACK
-COACHES   #chainPORT #chainPORTHACK
-   Technology   #chainPORT #chainPORTHACK
-   companies    #chainPORT #chainPORTHACK
-   Universities   #chainPORT #chainPORTHACK
-   &    #chainPORT #chainPORTHACK
-    Colleges    #chainPORT #chainPORTHACK
-ADD   #chainPORT #chainPORTHACK
-YOUR    #chainPORT #chainPORTHACK
-OWN   #chainPORT #chainPORTHACK
-CHALLENGE   #chainPORT #chainPORTHACK
-Do    #chainPORT #chainPORTHACK
-you   #chainPORT #chainPORTHACK
-have    #chainPORT #chainPORTHACK
-an    #chainPORT #chainPORTHACK
-interesting   #chainPORT #chainPORTHACK
-challenge   #chainPORT #chainPORTHACK
-related   #chainPORT #chainPORTHACK
-to    #chainPORT #chainPORTHACK
-this    #chainPORT #chainPORTHACK
-topic?    #chainPORT #chainPORTHACK
-Please    #chainPORT #chainPORTHACK
-let   #chainPORT #chainPORTHACK
-us    #chainPORT #chainPORTHACK
-know    #chainPORT #chainPORTHACK
-and   #chainPORT #chainPORTHACK
-we    #chainPORT #chainPORTHACK
-will    #chainPORT #chainPORTHACK
-take    #chainPORT #chainPORTHACK
-it    #chainPORT #chainPORTHACK
-into    #chainPORT #chainPORTHACK
-consideration!    #chainPORT #chainPORTHACK
-©   #chainPORT #chainPORTHACK
-2018    #chainPORT #chainPORTHACK
-by    #chainPORT #chainPORTHACK
-chainPORT.    #chainPORT #chainPORTHACK
-More    #chainPORT #chainPORTHACK
-information   #chainPORT #chainPORTHACK
--   #chainPORT #chainPORTHACK
-please    #chainPORT #chainPORTHACK
-contact   #chainPORT #chainPORTHACK
-info@chainporthack.com    #chainPORT #chainPORTHACK
+              Brought you something.  #chainPORT #chainPORTHACK #portofantwerp
+              Just don't let the nurses eat it all this time.  #chainPORT #chainPORTHACK #portofantwerp
+              My favorite. How did you know?  #chainPORT #chainPORTHACK #portofantwerp
+              Do you wanna-- We could pIay it together.  #chainPORT #chainPORTHACK #portofantwerp
+              I'm going on vacation for about a week to the Yucatan.  #chainPORT #chainPORTHACK #portofantwerp
+              lf for any reason you need to get in touch with me...  #chainPORT #chainPORTHACK #portofantwerp
+              l don't know if they have phones there, but you can talk to one of the nurses--  #chainPORT #chainPORTHACK #portofantwerp
+              You must be one of my students.  #chainPORT #chainPORTHACK #portofantwerp
+              No, Mom. My name's Angela.  #chainPORT #chainPORTHACK #portofantwerp
+              Can you bring me some candy when you come again?  #chainPORT #chainPORTHACK #portofantwerp
+              - My favorites are those-- - Almond Roca.  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, l know what your favorites are.  #chainPORT #chainPORTHACK #portofantwerp
+              - Angela Bennett! - Who is it?  #chainPORT #chainPORTHACK #portofantwerp
+              - FedEx. - Coming.  #chainPORT #chainPORTHACK #portofantwerp
+              Thank you for using our reservation service. Have a pleasant flight.  #chainPORT #chainPORTHACK #portofantwerp
+              Line five, please.  #chainPORT #chainPORTHACK #portofantwerp
+              - Oh, l have another one going out. - Okay. Here you go, ma'am.  #chainPORT #chainPORTHACK #portofantwerp
+              And here's your virus, Dale.  #chainPORT #chainPORTHACK #portofantwerp
+              - Can l use your pen? - Yeah, sure.  #chainPORT #chainPORTHACK #portofantwerp
+              This is a nice place.  #chainPORT #chainPORTHACK #portofantwerp
+              Thanks.  #chainPORT #chainPORTHACK #portofantwerp
+              - Have a nice day, ma'am. - You too.  #chainPORT #chainPORTHACK #portofantwerp
+              Mozart's Ghost! The hottest band on the Internet.  #chainPORT #chainPORTHACK #portofantwerp
+              - Cathedral Software. - Dale Hessman, please.  #chainPORT #chainPORTHACK #portofantwerp
+              Please hold.  #chainPORT #chainPORTHACK #portofantwerp
+              - Hello. - Hi, it's Angela.  #chainPORT #chainPORTHACK #portofantwerp
+              Angela? FedEx had you signing for that disk three minutes ago.  #chainPORT #chainPORTHACK #portofantwerp
+              - What took you so long? - I was having way too much fun...  #chainPORT #chainPORTHACK #portofantwerp
+              with this Mozart's Ghost.  #chainPORT #chainPORTHACK #portofantwerp
+              By the way, l sent you a whopper of a virus for your hall of fame.  #chainPORT #chainPORTHACK #portofantwerp
+              Just be a little careful with the escape button.  #chainPORT #chainPORTHACK #portofantwerp
+              Look, here's the problem. Pop yourself into concert information.  #chainPORT #chainPORTHACK #portofantwerp
+              All right.  #chainPORT #chainPORTHACK #portofantwerp
+              Houston Utilities. Dale, l think you took a wrong turn here.  #chainPORT #chainPORTHACK #portofantwerp
+              Not quite Ticketmaster, is it? See anything unusual?  #chainPORT #chainPORTHACK #portofantwerp
+              No, looks like a normal web page to me, except for that...  #chainPORT #chainPORTHACK #portofantwerp
+              little icon at the bottom of the screen.  #chainPORT #chainPORTHACK #portofantwerp
+              Click on it, and then press control-shift.  #chainPORT #chainPORTHACK #portofantwerp
+              - My God. - So, what do you make of all this?  #chainPORT #chainPORTHACK #portofantwerp
+              Simple. lt's a programming glitch.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's a futzed keystroke that sent you the wrong lnternet address.  #chainPORT #chainPORTHACK #portofantwerp
+              Last night it sent me to Amtrak's central mainframe and the Mayo Clinic.  #chainPORT #chainPORTHACK #portofantwerp
+              Neither of them are on the same subnet.  #chainPORT #chainPORTHACK #portofantwerp
+              Angela, l've accessed a system l shouldn't have.  #chainPORT #chainPORTHACK #portofantwerp
+              lf someone gets ahold of that disk, they'd have an awful lot of power.  #chainPORT #chainPORTHACK #portofantwerp
+              Why don't you just crawl in there, find the program error and delete it?  #chainPORT #chainPORTHACK #portofantwerp
+              Not quite ready to do that yet.  #chainPORT #chainPORTHACK #portofantwerp
+              Look, what's your day like tomorrow?  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, no. No.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm going on my first vacation in six years.  #chainPORT #chainPORTHACK #portofantwerp
+              l just confirmed my reservation. There are no refunds.  #chainPORT #chainPORTHACK #portofantwerp
+              - What time is your flight? -   :  . But l have to pack.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm gonna be a complete madwoman.  #chainPORT #chainPORTHACK #portofantwerp
+              - Why don't you wait till l get back? - l don't think so.  #chainPORT #chainPORTHACK #portofantwerp
+              - Just tell me what this is about. - I'd rather not on the phone.  #chainPORT #chainPORTHACK #portofantwerp
+              l can fly down tonight in my Cessna, be there by breakfast.  #chainPORT #chainPORTHACK #portofantwerp
+              We'd have five hours.  #chainPORT #chainPORTHACK #portofantwerp
+              You know this shit better than anyone.  #chainPORT #chainPORTHACK #portofantwerp
+              Fine. Fine. l'll see you at  :  .  #chainPORT #chainPORTHACK #portofantwerp
+              Great. So, they finally get to meet.  #chainPORT #chainPORTHACK #portofantwerp
+              l'll be the tall guy.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm gonna be the one with ''Spineless Simp'' tattooed to her forehead.  #chainPORT #chainPORTHACK #portofantwerp
+              Bye. See you tomorrow.  #chainPORT #chainPORTHACK #portofantwerp
+              Why do l do this?  #chainPORT #chainPORTHACK #portofantwerp
+              Burbank Tower. Cessna     Mike Bravo.  #chainPORT #chainPORTHACK #portofantwerp
+              lntercepting approach course l.L.S., runway eight.  #chainPORT #chainPORTHACK #portofantwerp
+              Three-nine Mike Bravo, we've lost radar contact.  #chainPORT #chainPORTHACK #portofantwerp
+              Say your position and altitude.  #chainPORT #chainPORTHACK #portofantwerp
+              Just passing the middle marker at      feet.  #chainPORT #chainPORTHACK #portofantwerp
+              Three-nine Mike Bravo, that's a negative.  #chainPORT #chainPORTHACK #portofantwerp
+              Verify your position and check your instruments.  #chainPORT #chainPORTHACK #portofantwerp
+              All normal, for crying out Ioud. You must be able to see my lights.  #chainPORT #chainPORTHACK #portofantwerp
+              That's a negative. Execute a missed approach immediately.  #chainPORT #chainPORTHACK #portofantwerp
+              Contact approach control on    . .  #chainPORT #chainPORTHACK #portofantwerp
+              Okay, Burbank, but still everything looks ok--  #chainPORT #chainPORTHACK #portofantwerp
+              Shit!  #chainPORT #chainPORTHACK #portofantwerp
+              God!  #chainPORT #chainPORTHACK #portofantwerp
+              - Cathedral Software. - Hi. Russ Melbourne, please.  #chainPORT #chainPORTHACK #portofantwerp
+              - One moment, please. - Mozart's Ghost!  #chainPORT #chainPORTHACK #portofantwerp
+              - Russ Melbourne here. - Hi. lt's Angela.  #chainPORT #chainPORTHACK #portofantwerp
+              l thought you'd be long gone.  #chainPORT #chainPORTHACK #portofantwerp
+              No, l was getting ready to leave. That's why l'm calling.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm glad you're still going, but when you get back, we need to talk.  #chainPORT #chainPORTHACK #portofantwerp
+              We're really desperately short of your genius up here.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, please. l'm far from being a genius, Russ...  #chainPORT #chainPORTHACK #portofantwerp
+              especially with a room full of people looking over my shoulder.  #chainPORT #chainPORTHACK #portofantwerp
+              - That's not the reason l called. - Just think about it, will ya?  #chainPORT #chainPORTHACK #portofantwerp
+              The honchos up here aren't gonna let me replace Dale...  #chainPORT #chainPORTHACK #portofantwerp
+              on such short notice, not with all the security breaches we've had in the past.  #chainPORT #chainPORTHACK #portofantwerp
+              Replace Dale. Okay. What? You're kidding, right?  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, God, l'm sorry. l thought you'd heard.  #chainPORT #chainPORTHACK #portofantwerp
+              What? What happened?  #chainPORT #chainPORTHACK #portofantwerp
+              Angela, Dale's dead. His plane crashed last night outside L.A.  #chainPORT #chainPORTHACK #portofantwerp
+              l just talked to him yesterday. He was coming to see me.  #chainPORT #chainPORTHACK #portofantwerp
+              Kind of puts things in perspective, doesn't it?  #chainPORT #chainPORTHACK #portofantwerp
+              Let's talk when you get back, huh?  #chainPORT #chainPORTHACK #portofantwerp
+              And try to have a good vacation.  #chainPORT #chainPORTHACK #portofantwerp
+              Okay. l'll talk to you soon, Russ.  #chainPORT #chainPORTHACK #portofantwerp
+              Plenty of time. Ain't nothin' comin' in or goin' out for the last hour.  #chainPORT #chainPORTHACK #portofantwerp
+              Ladies and gentlemen, your attention, please.  #chainPORT #chainPORTHACK #portofantwerp
+              We are sorry to announce...  #chainPORT #chainPORTHACK #portofantwerp
+              there is a computer malfunction, and all flights have been temporarily--  #chainPORT #chainPORTHACK #portofantwerp
+              - The whole airport is down. - When we get further information...  #chainPORT #chainPORTHACK #portofantwerp
+              we will advise you.  #chainPORT #chainPORTHACK #portofantwerp
+              Thank you very much.  #chainPORT #chainPORTHACK #portofantwerp
+              - We will let you all know. - Excuse me.  #chainPORT #chainPORTHACK #portofantwerp
+              I understand. We're doing the best we can.  #chainPORT #chainPORTHACK #portofantwerp
+              A blood test taken last week...  #chainPORT #chainPORTHACK #portofantwerp
+              at Bethesda Naval Hospital did in fact reveal...  #chainPORT #chainPORTHACK #portofantwerp
+              that Undersecretary of Defense Mike Bergstrom...  #chainPORT #chainPORTHACK #portofantwerp
+              was infected with the AlDS virus.  #chainPORT #chainPORTHACK #portofantwerp
+              You okay?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah. lt's all these people.  #chainPORT #chainPORTHACK #portofantwerp
+              No, l meant are you okay with your soda? Would you like a refill?  #chainPORT #chainPORTHACK #portofantwerp
+              - No, l'm fine. l've had three. - The malfunction has been repaired.  #chainPORT #chainPORTHACK #portofantwerp
+              One more, and l'll be able to fly myself to Mexico.  #chainPORT #chainPORTHACK #portofantwerp
+              Looks like you won't have to. Enjoy your flight.  #chainPORT #chainPORTHACK #portofantwerp
+              - Mozart's Ghost! - Waiter, l'd like a gibson, please.  #chainPORT #chainPORTHACK #portofantwerp
+              It's a martini with an onion instead of an olive.  #chainPORT #chainPORTHACK #portofantwerp
+              ls that okay? Thanks.  #chainPORT #chainPORTHACK #portofantwerp
+              Excuse me. Could l have one too, please?  #chainPORT #chainPORTHACK #portofantwerp
+              l'll take mine up at the bar.  #chainPORT #chainPORTHACK #portofantwerp
+              Didn't think anybody else drank those anymore?  #chainPORT #chainPORTHACK #portofantwerp
+              l guess l'm not as unfashionable as l once thought l was.  #chainPORT #chainPORTHACK #portofantwerp
+              ls that business or pleasure?  #chainPORT #chainPORTHACK #portofantwerp
+              ls there a difference?  #chainPORT #chainPORTHACK #portofantwerp
+              Not a great deal if you're a hacker.  #chainPORT #chainPORTHACK #portofantwerp
+              That's a nice piece of hardware. l assume you're in the business.  #chainPORT #chainPORTHACK #portofantwerp
+              lsn't everybody?  #chainPORT #chainPORTHACK #portofantwerp
+              Nope.  #chainPORT #chainPORTHACK #portofantwerp
+  #chainPORT #chainPORTHACK #portofantwerp
+             God, we're pathetic, aren't we?  #chainPORT #chainPORTHACK #portofantwerp
+              Excuse me?  #chainPORT #chainPORTHACK #portofantwerp
+              Well, we're here.  #chainPORT #chainPORTHACK #portofantwerp
+              We're sitting on the most perfect beach in the world...  #chainPORT #chainPORTHACK #portofantwerp
+              and all we can think about is where--  #chainPORT #chainPORTHACK #portofantwerp
+              Where can l hook up my modem?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, exactly.  #chainPORT #chainPORTHACK #portofantwerp
+              Um, l'm Jack Devlin.  #chainPORT #chainPORTHACK #portofantwerp
+              - Angela Bennett. - Angela?  #chainPORT #chainPORTHACK #portofantwerp
+              My most embarrassing secret.  #chainPORT #chainPORTHACK #portofantwerp
+              You know Breakfast At Tiffany's?  #chainPORT #chainPORTHACK #portofantwerp
+              - Very well. lt's my favorite film. - Right.  #chainPORT #chainPORTHACK #portofantwerp
+              l wore out my membership renting it.  #chainPORT #chainPORTHACK #portofantwerp
+              - You know what l'm talking about. - Yes. Very much so.  #chainPORT #chainPORTHACK #portofantwerp
+              When l was about   ...  #chainPORT #chainPORTHACK #portofantwerp
+              l had this sort of identity crisis.  #chainPORT #chainPORTHACK #portofantwerp
+              l used to think l was one of the characters.  #chainPORT #chainPORTHACK #portofantwerp
+              You thought you were Audrey Hepburn?  #chainPORT #chainPORTHACK #portofantwerp
+              - No, l used to think l was the cat. - The cat?  #chainPORT #chainPORTHACK #portofantwerp
+              l'd sit there...  #chainPORT #chainPORTHACK #portofantwerp
+              and l'd play out the last scene of the movie.  #chainPORT #chainPORTHACK #portofantwerp
+              l'd just play it over and over again.  #chainPORT #chainPORTHACK #portofantwerp
+              - You know the last scene? - Yes, I know the last scene.  #chainPORT #chainPORTHACK #portofantwerp
+              Out in the pouring rain, out in the alleyway.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm soaked to the bone, and l'm scared.  #chainPORT #chainPORTHACK #portofantwerp
+              And l'm...  #chainPORT #chainPORTHACK #portofantwerp
+              abandoned.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm alone.  #chainPORT #chainPORTHACK #portofantwerp
+              That's it.  #chainPORT #chainPORTHACK #portofantwerp
+              Moon River  #chainPORT #chainPORTHACK #portofantwerp
+              Wider than a mile  #chainPORT #chainPORTHACK #portofantwerp
+              Would you have dinner with me tonight?  #chainPORT #chainPORTHACK #portofantwerp
+              Come on. lt's your last night.  #chainPORT #chainPORTHACK #portofantwerp
+              You know what?  #chainPORT #chainPORTHACK #portofantwerp
+              l would-- l would actually really love to.  #chainPORT #chainPORTHACK #portofantwerp
+              Great.  #chainPORT #chainPORTHACK #portofantwerp
+              - lt's a company perk. - God, this is a company perk?  #chainPORT #chainPORTHACK #portofantwerp
+              - Yeah. - Some perk.  #chainPORT #chainPORTHACK #portofantwerp
+              l think l got a calendar one year from Cathedral.  #chainPORT #chainPORTHACK #portofantwerp
+              Where are you from? Colorado?  #chainPORT #chainPORTHACK #portofantwerp
+              Yes, it has to be. The eastern--  #chainPORT #chainPORTHACK #portofantwerp
+              Maybe it's the southeastern part of the state.  #chainPORT #chainPORTHACK #portofantwerp
+              The teeming metropolis of La Junta, population   .  #chainPORT #chainPORTHACK #portofantwerp
+              - La Junta? - That's pretty good.  #chainPORT #chainPORTHACK #portofantwerp
+              ls my accent that strong after all these years?  #chainPORT #chainPORTHACK #portofantwerp
+              - No, it's just a trick l do. - Oh.  #chainPORT #chainPORTHACK #portofantwerp
+              Why ''after all these years''? How long have you been gone?  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, boy. lt seems like a lifetime.  #chainPORT #chainPORTHACK #portofantwerp
+              Let's see. l was, uh--  #chainPORT #chainPORTHACK #portofantwerp
+              l was    going on   ...  #chainPORT #chainPORTHACK #portofantwerp
+              and we moved from La Junta to San Jose...  #chainPORT #chainPORTHACK #portofantwerp
+              Tulsa, um--  #chainPORT #chainPORTHACK #portofantwerp
+              So your father got transferred a lot?  #chainPORT #chainPORTHACK #portofantwerp
+              No, not really. No. He, um--  #chainPORT #chainPORTHACK #portofantwerp
+              l don't know. He just, you know-- He just transferred out one day.  #chainPORT #chainPORTHACK #portofantwerp
+              What? What are you looking at?  #chainPORT #chainPORTHACK #portofantwerp
+              You.  #chainPORT #chainPORTHACK #portofantwerp
+              Me?  #chainPORT #chainPORTHACK #portofantwerp
+              Computers are your life, aren't they?  #chainPORT #chainPORTHACK #portofantwerp
+              Yes. Perfect hiding place.  #chainPORT #chainPORTHACK #portofantwerp
+              Thanks.  #chainPORT #chainPORTHACK #portofantwerp
+              - Well, yeah, okay. - Nice one of you.  #chainPORT #chainPORTHACK #portofantwerp
+              l have one or two other interests, l'll have you know.  #chainPORT #chainPORTHACK #portofantwerp
+              Such as? What's your speciality in computers?  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, anything, pretty much.  #chainPORT #chainPORTHACK #portofantwerp
+              Beta testing, mostly, but pretty much anything.  #chainPORT #chainPORTHACK #portofantwerp
+              - That's way over my head, l'm afraid. - No, no.  #chainPORT #chainPORTHACK #portofantwerp
+              You just go into people's systems, you find the faults and you fix it.  #chainPORT #chainPORTHACK #portofantwerp
+              What happens if they don't have any faults?  #chainPORT #chainPORTHACK #portofantwerp
+              Don't believe l've met one yet.  #chainPORT #chainPORTHACK #portofantwerp
+              You must be a bit cold.  #chainPORT #chainPORTHACK #portofantwerp
+              Not really. Well, yeah, a little bit.  #chainPORT #chainPORTHACK #portofantwerp
+              - Here. - What?  #chainPORT #chainPORTHACK #portofantwerp
+              lt goes around here.  #chainPORT #chainPORTHACK #portofantwerp
+              Better?  #chainPORT #chainPORTHACK #portofantwerp
+              - Want one? - Oh, God, l used to smoke those.  #chainPORT #chainPORTHACK #portofantwerp
+              But you quit, right?  #chainPORT #chainPORTHACK #portofantwerp
+              Well, l refuse to.  #chainPORT #chainPORTHACK #portofantwerp
+              l reckon you gotta try a few things in life without a safety net...  #chainPORT #chainPORTHACK #portofantwerp
+              or how else you gonna know you're alive?  #chainPORT #chainPORTHACK #portofantwerp
+              Well, l take my share of risks.  #chainPORT #chainPORTHACK #portofantwerp
+              l don't always floss.  #chainPORT #chainPORTHACK #portofantwerp
+              l rip the tags off my pillows when they're new.  #chainPORT #chainPORTHACK #portofantwerp
+              - My kind of woman. - Yeah, well--  #chainPORT #chainPORTHACK #portofantwerp
+              Pretty adventurous?  #chainPORT #chainPORTHACK #portofantwerp
+              l don't know. What did you have in mind?  #chainPORT #chainPORTHACK #portofantwerp
+              Dare you risk it?  #chainPORT #chainPORTHACK #portofantwerp
+              Shit! My purse!  #chainPORT #chainPORTHACK #portofantwerp
+              - Fuck! - No! Don't!  #chainPORT #chainPORTHACK #portofantwerp
+              - lt's not worth getting killed over! - Come back!  #chainPORT #chainPORTHACK #portofantwerp
+              - Jack, come back here! - You ! Stop!  #chainPORT #chainPORTHACK #portofantwerp
+              - lt's not here. - lt's not in hotel.  #chainPORT #chainPORTHACK #portofantwerp
+              l look everywhere.  #chainPORT #chainPORTHACK #portofantwerp
+              So l come here. l do like you say. Whoosh, like magician.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, yeah. You're the midget Houdini.  #chainPORT #chainPORTHACK #portofantwerp
+              Okay. Now the dinero.  #chainPORT #chainPORTHACK #portofantwerp
+              God, l had everything in that bag. l had my passport, my credit cards.  #chainPORT #chainPORTHACK #portofantwerp
+              - Ow. - Sorry.  #chainPORT #chainPORTHACK #portofantwerp
+              Thanks for doing this.  #chainPORT #chainPORTHACK #portofantwerp
+              Well, you're the one bleeding to death.  #chainPORT #chainPORTHACK #portofantwerp
+              l am the one crying about my MasterCard.  #chainPORT #chainPORTHACK #portofantwerp
+              l apologize for having been a jerk.  #chainPORT #chainPORTHACK #portofantwerp
+              What do you mean? l'm the jerk.  #chainPORT #chainPORTHACK #portofantwerp
+              Only trying to impress you.  #chainPORT #chainPORTHACK #portofantwerp
+              Well, for future reference...  #chainPORT #chainPORTHACK #portofantwerp
+              you should know that the living tend to interest me more than the dead do.  #chainPORT #chainPORTHACK #portofantwerp
+              - Yeah? - Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              l suppose that's quite healthy.  #chainPORT #chainPORTHACK #portofantwerp
+              l suppose we ought to call up the Cancun police on the ship-to-shore.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's not working. We'll have to head further out.  #chainPORT #chainPORTHACK #portofantwerp
+              You can head to Morocco for all l care. lt's beautiful out here.  #chainPORT #chainPORTHACK #portofantwerp
+              How we doing?  #chainPORT #chainPORTHACK #portofantwerp
+              Still no dice.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm just going down below. l won't be a minute.  #chainPORT #chainPORTHACK #portofantwerp
+              Maybe we didn't go out far enough.  #chainPORT #chainPORTHACK #portofantwerp
+              No, this should do it.  #chainPORT #chainPORTHACK #portofantwerp
+              Tonight's been so out of control, huh?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              l hope you don't take this the wrong way...  #chainPORT #chainPORTHACK #portofantwerp
+              but this isn't exactly my style.  #chainPORT #chainPORTHACK #portofantwerp
+              l thought you liked taking risks.  #chainPORT #chainPORTHACK #portofantwerp
+              WeIl, yes, but l mean--  #chainPORT #chainPORTHACK #portofantwerp
+              - You know what l mean. - What?  #chainPORT #chainPORTHACK #portofantwerp
+              - You know, first date. - Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              - Sex, one-night stand. - Oh, sex.  #chainPORT #chainPORTHACK #portofantwerp
+              Yes, that sort of thing.  #chainPORT #chainPORTHACK #portofantwerp
+              You've always been a relationship kind of girl.  #chainPORT #chainPORTHACK #portofantwerp
+              Absolutely. Both times.  #chainPORT #chainPORTHACK #portofantwerp
+              So when was the last time?  #chainPORT #chainPORTHACK #portofantwerp
+              Um,     .  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, l see.  #chainPORT #chainPORTHACK #portofantwerp
+              And who was he? Your college boyfriend?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, l bet he was the--  #chainPORT #chainPORTHACK #portofantwerp
+              He was the captain of the drinking team.  #chainPORT #chainPORTHACK #portofantwerp
+              Wasn't ready for a relationship.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, l wish l had been that lucky.  #chainPORT #chainPORTHACK #portofantwerp
+              No, it was my shrink, actually.  #chainPORT #chainPORTHACK #portofantwerp
+              You know the story.  #chainPORT #chainPORTHACK #portofantwerp
+              l thought l was lonely, and he forgot he was married.  #chainPORT #chainPORTHACK #portofantwerp
+              That's okay. lt didn't last very long.  #chainPORT #chainPORTHACK #portofantwerp
+              My mom developed Alzheimer's around then, so it was really--  #chainPORT #chainPORTHACK #portofantwerp
+              You know what? l'm gonna shut up right now.  #chainPORT #chainPORTHACK #portofantwerp
+              - l'm just gonna be quiet. - lt's okay.  #chainPORT #chainPORTHACK #portofantwerp
+              No, actually, it's me who doesn't want to hear it.  #chainPORT #chainPORTHACK #portofantwerp
+              Sorry. l'm rambling a little bit because I'm a little nervous.  #chainPORT #chainPORTHACK #portofantwerp
+              You want a drink?  #chainPORT #chainPORTHACK #portofantwerp
+              Yes. That'd be greatly appreciated. Thank you.  #chainPORT #chainPORTHACK #portofantwerp
+              So, what's this for?  #chainPORT #chainPORTHACK #portofantwerp
+              lt's, uh-- lt's for shark fishing.  #chainPORT #chainPORTHACK #portofantwerp
+              Shark fishing? With a silencer?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              You certainly seem to know your ordnance.  #chainPORT #chainPORTHACK #portofantwerp
+              Colorado. You grow up with guns.  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              So, who are you, Jack?  #chainPORT #chainPORTHACK #portofantwerp
+              Who am l?  #chainPORT #chainPORTHACK #portofantwerp
+              l'll tell you who l am.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm Captain Goddamn America meets Albert Schweitzer.  #chainPORT #chainPORTHACK #portofantwerp
+              That's who l am. lsn't that what you always wanted?  #chainPORT #chainPORTHACK #portofantwerp
+              lt is. I remember.  #chainPORT #chainPORTHACK #portofantwerp
+              lt was butch...  #chainPORT #chainPORTHACK #portofantwerp
+              beautiful...  #chainPORT #chainPORTHACK #portofantwerp
+              brilliant, spends all day...  #chainPORT #chainPORTHACK #portofantwerp
+              dashing into the fray...  #chainPORT #chainPORTHACK #portofantwerp
+              fists flying.  #chainPORT #chainPORTHACK #portofantwerp
+              Sorry, l don't know any organ cantatas.  #chainPORT #chainPORTHACK #portofantwerp
+              Was that it?  #chainPORT #chainPORTHACK #portofantwerp
+              And if you'll excuse me...  #chainPORT #chainPORTHACK #portofantwerp
+              it's time to make the world safe for democracy.  #chainPORT #chainPORTHACK #portofantwerp
+              Where's the clip?  #chainPORT #chainPORTHACK #portofantwerp
+              Give me that!  #chainPORT #chainPORTHACK #portofantwerp
+              Bitch.  #chainPORT #chainPORTHACK #portofantwerp
+              Somebody, l need help.  #chainPORT #chainPORTHACK #portofantwerp
+              Somebody? Hello?  #chainPORT #chainPORTHACK #portofantwerp
+              Please, somebody, l need help.  #chainPORT #chainPORTHACK #portofantwerp
+              Keys. Okay.  #chainPORT #chainPORTHACK #portofantwerp
+              What? No. How did l get here?  #chainPORT #chainPORTHACK #portofantwerp
+              How'd l get here?  #chainPORT #chainPORTHACK #portofantwerp
+              A fisherman found you. He brought you here.  #chainPORT #chainPORTHACK #portofantwerp
+              You were very lucky they came by.  #chainPORT #chainPORTHACK #portofantwerp
+              How long have l been here?  #chainPORT #chainPORTHACK #portofantwerp
+              Three days. Try not to talk too much.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, we found a man's wallet...  #chainPORT #chainPORTHACK #portofantwerp
+              filled with pesos and a lot of U.S. dollars.  #chainPORT #chainPORTHACK #portofantwerp
+              - We tried to contact him-- - No. He--  #chainPORT #chainPORTHACK #portofantwerp
+              No. There was no luck finding this man.  #chainPORT #chainPORTHACK #portofantwerp
+              There was a disk.  #chainPORT #chainPORTHACK #portofantwerp
+              Green square, plastic disk.  #chainPORT #chainPORTHACK #portofantwerp
+              Ah, yes.  #chainPORT #chainPORTHACK #portofantwerp
+              The disk was ruined by the sun.  #chainPORT #chainPORTHACK #portofantwerp
+              You relax now, hmm? Get well.  #chainPORT #chainPORTHACK #portofantwerp
+              - No. l need-- - ln a few days.  #chainPORT #chainPORTHACK #portofantwerp
+              Look at you now. You haven't got the strength. Please.  #chainPORT #chainPORTHACK #portofantwerp
+              My clothes. How much do l owe you?  #chainPORT #chainPORTHACK #portofantwerp
+              Please. You have to relax now. You have to rest.  #chainPORT #chainPORTHACK #portofantwerp
+              - You need a few days. - l need my clothes.  #chainPORT #chainPORTHACK #portofantwerp
+              l have to go. l just need my clothes.  #chainPORT #chainPORTHACK #portofantwerp
+              ln national news, we go to WNN correspondent Daniel Schorr.  #chainPORT #chainPORTHACK #portofantwerp
+              - Hi. l need-- - Wall Street panicked when prices...  #chainPORT #chainPORTHACK #portofantwerp
+              appeared to tumble at a rate reminiscent of the Black Tuesday crash.  #chainPORT #chainPORTHACK #portofantwerp
+              Officials suspended trading when it became clear...  #chainPORT #chainPORTHACK #portofantwerp
+              that the losses were fictitious and caused by computer pranksters.  #chainPORT #chainPORTHACK #portofantwerp
+              - l need my room key for      please. - What is the name?  #chainPORT #chainPORTHACK #portofantwerp
+              -Angela Bennett. -Wall Street expects to open tomorrow...  #chainPORT #chainPORTHACK #portofantwerp
+              with its computers protected by Gregg Microsystems' latest security program...  #chainPORT #chainPORTHACK #portofantwerp
+              aptly nicknamed the Gatekeeper.  #chainPORT #chainPORTHACK #portofantwerp
+              What about that prank downtown?  #chainPORT #chainPORTHACK #portofantwerp
+              Pranks? Short-sheeting someone's bed is a prank.  #chainPORT #chainPORTHACK #portofantwerp
+              These Praetorians could've done serious damage to our economy...  #chainPORT #chainPORTHACK #portofantwerp
+              just as the actions recently at LAX.  #chainPORT #chainPORTHACK #portofantwerp
+              No, l'm sorry. Angela Bennett checked out last Saturday night.  #chainPORT #chainPORTHACK #portofantwerp
+              No. Sorry, you don't understand. l'm Angela Bennett.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm standing right here. l didn't check out.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's not on the computer here. Let me check one more thing.  #chainPORT #chainPORTHACK #portofantwerp
+              No Angela Bennett. She checked out last Saturday night.  #chainPORT #chainPORTHACK #portofantwerp
+              No, l didn't check out. l would know if l checked out.  #chainPORT #chainPORTHACK #portofantwerp
+              - l didn't check out. - According to the computer, you did.  #chainPORT #chainPORTHACK #portofantwerp
+              There's nothing l can do for you. Okay? I'm sorry.  #chainPORT #chainPORTHACK #portofantwerp
+              - Excuse me, sir? - Step here, sir, please.  #chainPORT #chainPORTHACK #portofantwerp
+              That room is fine. We'll take it.  #chainPORT #chainPORTHACK #portofantwerp
+              That's for you. Okay. This one. Excuse me, ma'am.  #chainPORT #chainPORTHACK #portofantwerp
+              - There you go. - Thank you.  #chainPORT #chainPORTHACK #portofantwerp
+              Please dial your card number again now.  #chainPORT #chainPORTHACK #portofantwerp
+              The card number you have just dialed is not valid.  #chainPORT #chainPORTHACK #portofantwerp
+              Miss Marx?  #chainPORT #chainPORTHACK #portofantwerp
+              Please dial your card number again now.  #chainPORT #chainPORTHACK #portofantwerp
+              - Ruth Marx? Excuse me. - The card number you have just dialed--  #chainPORT #chainPORTHACK #portofantwerp
+              - Are you Ruth Marx? - No.  #chainPORT #chainPORTHACK #portofantwerp
+              You're not the woman who was here about a temporary visa?  #chainPORT #chainPORTHACK #portofantwerp
+              No, l am here about a visa, but--  #chainPORT #chainPORTHACK #portofantwerp
+              ls your Social Security number    -  -    ?  #chainPORT #chainPORTHACK #portofantwerp
+              You live at     Finley Avenue, Venice, California?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              Well, then according to the computers...  #chainPORT #chainPORTHACK #portofantwerp
+              of the California Department of Motor Vehicles...  #chainPORT #chainPORTHACK #portofantwerp
+              you're Ruth Marx.  #chainPORT #chainPORTHACK #portofantwerp
+              So if that's who you are...  #chainPORT #chainPORTHACK #portofantwerp
+              you need to sign your name there, and we'll issue your visa.  #chainPORT #chainPORTHACK #portofantwerp
+              - But l'm not-- - You're not what?  #chainPORT #chainPORTHACK #portofantwerp
+              l'm not clear about something.  #chainPORT #chainPORTHACK #portofantwerp
+              Without this, l can't get back into the United States. ls that correct?  #chainPORT #chainPORTHACK #portofantwerp
+              That's correct.  #chainPORT #chainPORTHACK #portofantwerp
+              So all l would have to do is just sign Ruth Marx and--  #chainPORT #chainPORTHACK #portofantwerp
+              Right there.  #chainPORT #chainPORTHACK #portofantwerp
+              Okay. Think, think.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, my God.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, my God.  #chainPORT #chainPORTHACK #portofantwerp
+              Where're you runnin'? Don't run. Take your time. Relax.  #chainPORT #chainPORTHACK #portofantwerp
+              My name is Stan Whiteman, Whiteman Realty. Let me show you around.  #chainPORT #chainPORTHACK #portofantwerp
+              You'll like it.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, l definitely saw her move out.  #chainPORT #chainPORTHACK #portofantwerp
+              Okay, when was this?  #chainPORT #chainPORTHACK #portofantwerp
+              Three days ago. Moving van, moving men, furniture.  #chainPORT #chainPORTHACK #portofantwerp
+              l've been in Mexico for over a week. How could l be in L.A. selling my house?  #chainPORT #chainPORTHACK #portofantwerp
+              lt wasn't your house to sell! lt's not her! lt's not Angela Bennett!  #chainPORT #chainPORTHACK #portofantwerp
+              - Calm down. - l am Angela Bennett!  #chainPORT #chainPORTHACK #portofantwerp
+              The real Angela Bennett had the deed and the mortgage papers!  #chainPORT #chainPORTHACK #portofantwerp
+              l got       in computers. l checked every record. lt's not her!  #chainPORT #chainPORTHACK #portofantwerp
+              Ma'am, it would help if you could produce some form of identification.  #chainPORT #chainPORTHACK #portofantwerp
+              You know what? l agree with you.  #chainPORT #chainPORTHACK #portofantwerp
+              But as l have told you      times today...  #chainPORT #chainPORTHACK #portofantwerp
+              l had everything stolen in Cozumel.  #chainPORT #chainPORTHACK #portofantwerp
+              Please. Ask her how she got across the border without a passport.  #chainPORT #chainPORTHACK #portofantwerp
+              - l had a temporary issued. - Do they do that?  #chainPORT #chainPORTHACK #portofantwerp
+              - l don't think they do that. - Oh, my God. This is ridiculous.  #chainPORT #chainPORTHACK #portofantwerp
+              Here. Here it is. This is it.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's just that it's under a different name.  #chainPORT #chainPORTHACK #portofantwerp
+              - Why's that? - Because they think l'm not me.  #chainPORT #chainPORTHACK #portofantwerp
+              - ls this your signature? - Well, no.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's my handwriting, but l just signed a different name that they gave me.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's a federal offense to forge a visa.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, really? lt is? And what is it to steal an entire house?  #chainPORT #chainPORTHACK #portofantwerp
+              - Yo, Mike. You wanna run this? - l'll be right back.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's not gonna make any difference, because what they've done is...  #chainPORT #chainPORTHACK #portofantwerp
+              they've screwed with my information and my fingerprints.  #chainPORT #chainPORTHACK #portofantwerp
+              - Who's they? - I have no idea.  #chainPORT #chainPORTHACK #portofantwerp
+              Where do you work? Do you work around here?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, l work in my house, but my office is in San Francisco.  #chainPORT #chainPORTHACK #portofantwerp
+              But I've never been there. I work out of my house.  #chainPORT #chainPORTHACK #portofantwerp
+              You don't know one person in a town you've lived in for four years...  #chainPORT #chainPORTHACK #portofantwerp
+              who can vouch you're Angela Bennett-- not a mother, a father?  #chainPORT #chainPORTHACK #portofantwerp
+              My mother is not well. My father is--  #chainPORT #chainPORTHACK #portofantwerp
+              No.  #chainPORT #chainPORTHACK #portofantwerp
+              There's, uh-- There's my therapist Alan Champion.  #chainPORT #chainPORTHACK #portofantwerp
+              - Your therapist? - My ex-therapist, all right?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, we've got a Ruth Marx trying to run a scam at a house.  #chainPORT #chainPORTHACK #portofantwerp
+              She's wanted for prostitution and narcotics.  #chainPORT #chainPORTHACK #portofantwerp
+              We're gonna bring her in.  #chainPORT #chainPORTHACK #portofantwerp
+              Um, would you excuse me?  #chainPORT #chainPORTHACK #portofantwerp
+              l'm gonna be right back. l'm just gonna use--  #chainPORT #chainPORTHACK #portofantwerp
+              Mrs. Raines...  #chainPORT #chainPORTHACK #portofantwerp
+              is she or isn't she?  #chainPORT #chainPORTHACK #portofantwerp
+              She kept to herself, didn't talk to anybody.  #chainPORT #chainPORTHACK #portofantwerp
+              - Where's the girl? - She's--  #chainPORT #chainPORTHACK #portofantwerp
+              Where's my phone? Anybody seen my phone?  #chainPORT #chainPORTHACK #portofantwerp
+              Excuse me, sir. Did you see a young woman running out of here?  #chainPORT #chainPORTHACK #portofantwerp
+              - No, sir. l haven't seen anyone. - Thanks.  #chainPORT #chainPORTHACK #portofantwerp
+              - Yeah? - What the hell happened, Devlin?  #chainPORT #chainPORTHACK #portofantwerp
+              Don't worry. We'll get hold of the disk. We'll find who she's been speaking to.  #chainPORT #chainPORTHACK #portofantwerp
+              She's out here on her own. She's feeIing pretty vulnerable.  #chainPORT #chainPORTHACK #portofantwerp
+              We don't want another Cozumel, Devlin. She's your responsibility. Deal with it.  #chainPORT #chainPORTHACK #portofantwerp
+              l said l'd take care of her, all right?  #chainPORT #chainPORTHACK #portofantwerp
+             - Cathedral Software. - Russ Melbourne.  #chainPORT #chainPORTHACK #portofantwerp
+              - Cathedral Software. - Russ Melbourne.  #chainPORT #chainPORTHACK #portofantwerp
+              Mr. Melbourne is no longer with the company.  #chainPORT #chainPORTHACK #portofantwerp
+              What do you mean?  #chainPORT #chainPORTHACK #portofantwerp
+             May l connect you to someone who could help you?  #chainPORT #chainPORTHACK #portofantwerp
+            l've never dealt with anybody in operations.  #chainPORT #chainPORTHACK #portofantwerp
+            - l don't know anybody else. - Who may l connect you with?  #chainPORT #chainPORTHACK #portofantwerp
+              Head of Security Systems. Tell them that it's Angela Bennett.  #chainPORT #chainPORTHACK #portofantwerp
+              Thank you. l'll put you through to Miss Bennett.  #chainPORT #chainPORTHACK #portofantwerp
+              What? No. l am Angela Bennett.  #chainPORT #chainPORTHACK #portofantwerp
+              This is Angela Bennett.  #chainPORT #chainPORTHACK #portofantwerp
+              - Who is this? - This is Angela Bennett. Hello?  #chainPORT #chainPORTHACK #portofantwerp
+              This is someone that can help you. Give us the disk, Angela.  #chainPORT #chainPORTHACK #portofantwerp
+              You have the wrong person. l don't know what you're talking about.  #chainPORT #chainPORTHACK #portofantwerp
+              Just give us the disk, and we'll give you your life back.  #chainPORT #chainPORTHACK #portofantwerp
+              l don't understand. l don't have your disk. l don't know what you mean.  #chainPORT #chainPORTHACK #portofantwerp
+              Give us the disk, Angela.  #chainPORT #chainPORTHACK #portofantwerp
+              - What's the number? -    -    .  #chainPORT #chainPORTHACK #portofantwerp
+              - Did you get the address? - It's      California.  #chainPORT #chainPORTHACK #portofantwerp
+             Hi. This is Dr. Alan Champion. l can 't come to the phone right now.  #chainPORT #chainPORTHACK #portofantwerp
+              - Please be home. - Please leave your name, your number.  #chainPORT #chainPORTHACK #portofantwerp
+              You know the drill.  #chainPORT #chainPORTHACK #portofantwerp
+              Are you screening? Please be screening.  #chainPORT #chainPORTHACK #portofantwerp
+              - Hello? Hello. l'm home. - Hi. lt's me.  #chainPORT #chainPORTHACK #portofantwerp
+              I need your help. l'm in a lot of trouble.  #chainPORT #chainPORTHACK #portofantwerp
+              - Shit. - I'm not sure what you want me to do.  #chainPORT #chainPORTHACK #portofantwerp
+              Hold on. This is a cell phone, right?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, so we can't put a normal trace on it.  #chainPORT #chainPORTHACK #portofantwerp
+              Listen. There's no problem. No.  #chainPORT #chainPORTHACK #portofantwerp
+              - Just get the number. - Right.  #chainPORT #chainPORTHACK #portofantwerp
+              But don't dial it. Just send out a signal.  #chainPORT #chainPORTHACK #portofantwerp
+              - Send it from the base? - Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              Then find me two repeater cells that can pick it up.  #chainPORT #chainPORTHACK #portofantwerp
+              Give me the bisect, and it'll find it within a few hundred yards.  #chainPORT #chainPORTHACK #portofantwerp
+              - Okay. - Go.  #chainPORT #chainPORTHACK #portofantwerp
+              - Go, go. - Nice to see you too.  #chainPORT #chainPORTHACK #portofantwerp
+              - l'm sorry. Just go. - Come on. l'm not a cab.  #chainPORT #chainPORTHACK #portofantwerp
+              - Say hi. - Hi. Can we go now?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, now we can go.  #chainPORT #chainPORTHACK #portofantwerp
+              Listen, do you still have that laptop that l gave you?  #chainPORT #chainPORTHACK #portofantwerp
+              - Uh-huh. l'm wearing it. - l'm serious. Do you have it?  #chainPORT #chainPORTHACK #portofantwerp
+              - Yes, l have it. - We need to get it and go to a hotel.  #chainPORT #chainPORTHACK #portofantwerp
+              - Now that's doable. - Alan, just go.  #chainPORT #chainPORTHACK #portofantwerp
+              Just go, go, go.  #chainPORT #chainPORTHACK #portofantwerp
+              l swear to God. l asked for a quarter, and she gave me a telephone.  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, that's right. l'm calling everybody.  #chainPORT #chainPORTHACK #portofantwerp
+              Clever girl.  #chainPORT #chainPORTHACK #portofantwerp
+              Voila. Ouch.  #chainPORT #chainPORTHACK #portofantwerp
+              Alan, you don't have to stay if you don't want to.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm sure that-- God, what's her name?  #chainPORT #chainPORTHACK #portofantwerp
+              Amy. Don't worry. lt's over with Amy.  #chainPORT #chainPORTHACK #portofantwerp
+              - l'm sorry. - Don't be, dearie.  #chainPORT #chainPORTHACK #portofantwerp
+              We're not. This is bizarre.  #chainPORT #chainPORTHACK #portofantwerp
+              l haven't seen you in so long. What are we even doing here?  #chainPORT #chainPORTHACK #portofantwerp
+              l just figured you would be safe.  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, great. So l've gone from being a self-centered asshole to safe.  #chainPORT #chainPORTHACK #portofantwerp
+              Thank you very much.  #chainPORT #chainPORTHACK #portofantwerp
+              No, l just figured that they couldn't trace me to you and that your--  #chainPORT #chainPORTHACK #portofantwerp
+  #chainPORT #chainPORTHACK #portofantwerp
+             Your patient records are confidential, right?  #chainPORT #chainPORTHACK #portofantwerp
+              My patient records. Yeah, l knew l had my subtle charms.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's just you're the only person l have to turn to right now.  #chainPORT #chainPORTHACK #portofantwerp
+              And you know what, Angie? l'm gonna take that as a big compliment.  #chainPORT #chainPORTHACK #portofantwerp
+              Guess what time it is. Gibsons.  #chainPORT #chainPORTHACK #portofantwerp
+              Almost. We have no onions, so we'll have to use these.  #chainPORT #chainPORTHACK #portofantwerp
+              Seldane, the antihistamine of champions.  #chainPORT #chainPORTHACK #portofantwerp
+              l could always make you laugh, couIdn't l?  #chainPORT #chainPORTHACK #portofantwerp
+              You know what? l'm gonna pass.  #chainPORT #chainPORTHACK #portofantwerp
+              - No drink? - No drink.  #chainPORT #chainPORTHACK #portofantwerp
+              All right. l come bearing gifts.  #chainPORT #chainPORTHACK #portofantwerp
+              Some of Amy's clothes for you here. Try these on.  #chainPORT #chainPORTHACK #portofantwerp
+              This is such a nightmare. lt's Iike l'm not even me anymore.  #chainPORT #chainPORTHACK #portofantwerp
+              Hey, come here.  #chainPORT #chainPORTHACK #portofantwerp
+              Come on. Look at me. You're freaking me.  #chainPORT #chainPORTHACK #portofantwerp
+              You gotta take a breath, take a pause.  #chainPORT #chainPORTHACK #portofantwerp
+              Okay, if you're not you, tell me who you think you are.  #chainPORT #chainPORTHACK #portofantwerp
+              - Christ, you're not even listening. - l am listening.  #chainPORT #chainPORTHACK #portofantwerp
+              But come on. Somebody stole your purse.  #chainPORT #chainPORTHACK #portofantwerp
+              - l didn't expect you to believe me. - l do believe you.  #chainPORT #chainPORTHACK #portofantwerp
+              That's not true. You know what l believe?  #chainPORT #chainPORTHACK #portofantwerp
+              l believe you're a very frightened woman.  #chainPORT #chainPORTHACK #portofantwerp
+              ln general, you're disconnected from the human race.  #chainPORT #chainPORTHACK #portofantwerp
+              l think you're way out there on your own.  #chainPORT #chainPORTHACK #portofantwerp
+              - You mix in your father leaving-- - Oh, no.  #chainPORT #chainPORTHACK #portofantwerp
+              My father has nothing to do with the fact that my car's missing.  #chainPORT #chainPORTHACK #portofantwerp
+              lt has nothing to do with the fact that my house is empty.  #chainPORT #chainPORTHACK #portofantwerp
+              lt has nothing to do with the fact that the police department...  #chainPORT #chainPORTHACK #portofantwerp
+              is chasing after me and that somebody out there wants to kiIl me.  #chainPORT #chainPORTHACK #portofantwerp
+              l believe something happened, but that just doesn't make sense.  #chainPORT #chainPORTHACK #portofantwerp
+              l don't want to be simplistic...  #chainPORT #chainPORTHACK #portofantwerp
+              but l think you're reaching out.  #chainPORT #chainPORTHACK #portofantwerp
+              You know what? You're absolutely right.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm reaching out to anybody who knows me...  #chainPORT #chainPORTHACK #portofantwerp
+              anybody who will listen to me and believe me...  #chainPORT #chainPORTHACK #portofantwerp
+              be my friend and somebody to trust.  #chainPORT #chainPORTHACK #portofantwerp
+              Hey, Angie, l'm sorry.  #chainPORT #chainPORTHACK #portofantwerp
+              Sometimes it's easier for me to play doctor than it is to listen.  #chainPORT #chainPORTHACK #portofantwerp
+              l just don't understand. Why me? l am nobody. l am nothing.  #chainPORT #chainPORTHACK #portofantwerp
+              But they knew everything about me.  #chainPORT #chainPORTHACK #portofantwerp
+              They knew what l ate, what l drank, what movies l watched.  #chainPORT #chainPORTHACK #portofantwerp
+              They knew where l was from. They knew what cigarettes l used to smoke.  #chainPORT #chainPORTHACK #portofantwerp
+              And everything they did, they must have watched on the lnternet.  #chainPORT #chainPORTHACK #portofantwerp
+              l don't know. Watched my credit cards?  #chainPORT #chainPORTHACK #portofantwerp
+              Our whole lives are on the computer, and they knew that l could be vanished.  #chainPORT #chainPORTHACK #portofantwerp
+              They knew that nobody would care and it wouldn't matter.  #chainPORT #chainPORTHACK #portofantwerp
+              lt's going to be okay. What can I do?  #chainPORT #chainPORTHACK #portofantwerp
+              l need for you to take my mom and just put her anywhere.  #chainPORT #chainPORTHACK #portofantwerp
+              l don't care where. Just put her under a different name.  #chainPORT #chainPORTHACK #portofantwerp
+              l don't know what these people will do. You can do that 'cause you're a doctor?  #chainPORT #chainPORTHACK #portofantwerp
+              I can put your mom in a sanitarium for observation.  #chainPORT #chainPORTHACK #portofantwerp
+              How's that?  #chainPORT #chainPORTHACK #portofantwerp
+              That would mean a lot to me, 'cause she's all l got left right now.  #chainPORT #chainPORTHACK #portofantwerp
+              All that you have left?  #chainPORT #chainPORTHACK #portofantwerp
+              Christ, Angie, they've really gotten into your head with this.  #chainPORT #chainPORTHACK #portofantwerp
+              Put yourself in my shoes. l don't hear from you for a long time.  #chainPORT #chainPORTHACK #portofantwerp
+              l get a phone call, this convoluted story. Come on.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm not buying the whole package, but l'll tell you what l can do.  #chainPORT #chainPORTHACK #portofantwerp
+              l have a friend in the federal building. His name's Ben Phillips.  #chainPORT #chainPORTHACK #portofantwerp
+              He's an FBl agent. Why don't l--  #chainPORT #chainPORTHACK #portofantwerp
+              l've been running from the police ever since l got back in this country.  #chainPORT #chainPORTHACK #portofantwerp
+              - That's the last thing that l need. - Well, that's great, Angela.  #chainPORT #chainPORTHACK #portofantwerp
+              Why don't you just live the rest of your life in this hotel room?  #chainPORT #chainPORTHACK #portofantwerp
+              Well, do you trust him?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah. I used to hold his head over the toilet at frat parties.  #chainPORT #chainPORTHACK #portofantwerp
+              Come on. l'm serious. Do you trust him?  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah, l trust Ben. I do.  #chainPORT #chainPORTHACK #portofantwerp
+              Let's formulate our plan. l'm gonna go back to my place.  #chainPORT #chainPORTHACK #portofantwerp
+              l'll figure out the best way to transfer your mom to the sanitarium.  #chainPORT #chainPORTHACK #portofantwerp
+              Then l'll calI Ben. If l get any information, l'll get back to you.  #chainPORT #chainPORTHACK #portofantwerp
+              Don't be so down. Come here. lt's gonna be okay.  #chainPORT #chainPORTHACK #portofantwerp
+              l'm on watch now.  #chainPORT #chainPORTHACK #portofantwerp
+              You know, this would've never happened if you had stayed with me.  #chainPORT #chainPORTHACK #portofantwerp
+              Hey, Alan, thank you...  #chainPORT #chainPORTHACK #portofantwerp
+              for everything.  #chainPORT #chainPORTHACK #portofantwerp
+              You're welcome. You stay put, kiddo.  #chainPORT #chainPORTHACK #portofantwerp
+              Merci. Now prompt me, please.  #chainPORT #chainPORTHACK #portofantwerp
+              Okay, you carried this around, Devlin, because it was important.  #chainPORT #chainPORTHACK #portofantwerp
+              Bethesda Naval Hospital.  #chainPORT #chainPORTHACK #portofantwerp
+              Password.  #chainPORT #chainPORTHACK #portofantwerp
+              Okay, password. We're gonna try you.  #chainPORT #chainPORTHACK #portofantwerp
+              No. Okay.  #chainPORT #chainPORTHACK #portofantwerp
+              Well, you look familiar. Let's try you again.  #chainPORT #chainPORTHACK #portofantwerp
+              Come on. Okay.  #chainPORT #chainPORTHACK #portofantwerp
+              Bergstrom? What?  #chainPORT #chainPORTHACK #portofantwerp
+              Oh, my God.  #chainPORT #chainPORTHACK #portofantwerp
+              Yeah.  #chainPORT #chainPORTHACK #portofantwerp
+              - Someone's on. - Think it's our girl?  #chainPORT #chainPORTHACK #portofantwerp
+              Whoever it is is covering their tracks. A dozen hops so far.  #chainPORT #chainPORTHACK #portofantwerp
+              A pop in Switzerland, a Unix box in the University of Montana...  #chainPORT #chainPORTHACK #portofantwerp
+              five different routers at Berkeley.  #chainPORT #chainPORTHACK #portofantwerp
+              - They know what they're doing. - How long will it take to track her?  #chainPORT #chainPORTHACK #portofantwerp
+              Depending how long she stays on,    minutes, half hour at most.  #chainPORT #chainPORTHACK #portofantwerp
+              Call me the second you find her.  #chainPORT #chainPORTHACK #portofantwerp
+              And that other matter?  #chainPORT #chainPORTHACK #portofantwerp
+              That's free of charge.  #chainPORT #chainPORTHACK #portofantwerp
+              Thanks.  #chainPORT #chainPORTHACK #portofantwerp
+              Praetorians?  #chainPORT #chainPORTHACK #portofantwerp
+              What? l need more information.  #chainPORT #chainPORTHACK #portofantwerp
+              ''The Big Bad Wolf, Cyberterrorists--''  #chainPORT #chainPORTHACK #portofantwerp
+              l need more information.  #chainPORT #chainPORTHACK #portofantwerp
+              ''LAX, Wall Street, Atlanta. Dangerous. Don't mess with them.''  #chainPORT #chainPORTHACK #portofantwerp
+              They've already started messing with me.  #chainPORT #chainPORTHACK #portofantwerp
+              ''Meet in lRL. ln Private.  #chainPORT #chainPORTHACK #portofantwerp
+              ln real life.''  #chainPORT #chainPORTHACK #portofantwerp
+              No, no. lt's gotta be a public place.  #chainPORT #chainPORTHACK #portofantwerp
+              Where it's safe with a lot of people.  #chainPORT #chainPORTHACK #portofantwerp
+              The Santa Monica Pier by--  #chainPORT #chainPORTHACK #portofantwerp
+              Where?  #chainPORT #chainPORTHACK #portofantwerp
+              The Ferris wheel.  #chainPORT #chainPORTHACK #portofantwerp
+              - Any luck?   #chainPORT #chainPORTHACK #portofantwerp
+              - Rosewood in West Hollywood.  #chainPORT #chainPORTHACK #portofantwerp
+              Remind me to buy you guys something nice.  #chainPORT #chainPORTHACK #portofantwerp
+              Hello?  #chainPORT #chainPORTHACK #portofantwerp
+              Angie!  #chainPORT #chainPORTHACK #portofantwerp
